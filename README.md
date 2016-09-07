@@ -1,2 +1,2 @@
 # GBR
-GGR - Game Boy Retarded
+GBR - Game Boy Retarded
